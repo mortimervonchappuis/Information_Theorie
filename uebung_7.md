@@ -18,8 +18,6 @@ Für eine Quelle $\alpha = \{a, b\}$ mit Wahrscheinlichkeiten $\{p_a=0.85, p_b=0
 
 Da in $X_2$ die doppelte Anzahl an symbolen pro Zeichen wie in $X_1$ vorhanden sind, ist auch die Entropie doppelt so groß $H(X_1) = \frac{1}{2}H(X_2)$.
 
-
-
 ## Aufgabe 13:
 
 Für die mittlere Codewortlänge $l_C$ gilt:
@@ -213,5 +211,3 @@ graph TD;
 ```
 
 Der dadurch aufgespannte Baum ist identisch zu dem aus **Aufgabe 13 Teil A) 3.** und somit sind auch alle folgenden Rechnungen identisch und die Redundanz damit $RC \approx 0.26966[bit]$
-
-
